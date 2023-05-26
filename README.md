@@ -82,7 +82,7 @@ This is the Guide to for the PowerShell-Script "Data-Explorer" which is made for
 
 ## Usage
 
-- This is now a like a short "Demo" which doesn't have to be like shown on the screenshots, every use case can be different.
+- This is now like a short "Demo" which doesn't have to be like shown on the screenshots, every use case can be different.
 
 <img src="https://github.com/atakancetinkaya/data-explorer/blob/main/powershell_usage_screenshots/accept.png" alt="SS-1">
 
