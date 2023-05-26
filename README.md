@@ -33,7 +33,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">My GitHub Content</a>
+      <a href="#about-the-project">My PowerShell Content</a>
       <ul>
       </ul>
     </li>
