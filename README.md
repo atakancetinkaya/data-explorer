@@ -84,11 +84,11 @@ This is the Guide to for the PowerShell-Script "Data-Explorer" which is made for
 
 - This can be seen as the step "1.8)" which is at "Getting Started" Chapter
 
-<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.20.png" alt="SS-1">
+<img src="https://github.com/atakancetinkaya/data-explorer/tree/main/powershell_usage_screenshots/accept.png" alt="SS-1">
 
-<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.39.png" alt="SS-2">
+<img src="https://github.com/atakancetinkaya/data-explorer/tree/main/powershell_usage_screenshots/output.png" alt="SS-2">
 
-<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.58.22.png" alt="SS-3">
+<img src="https://github.com/atakancetinkaya/data-explorer/tree/main/powershell_usage_screenshots/not_accept.png" alt="SS-3">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
