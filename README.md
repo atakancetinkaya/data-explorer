@@ -54,7 +54,7 @@
 
 ## My PowerShell Content
 
-This .md (README.md) explains, what this PowerShell-Script exactly does
+This .md (README.md) explains, what this PowerShell-Script exactly does.
 
 Use the `README.md` to get started.
 
@@ -82,13 +82,13 @@ This is the Guide to for the PowerShell-Script "Data-Explorer" which is made for
 
 ## Usage
 
-- This can be seen as the step "1.8)" which is at "Getting Started" Chapter
+- This is now a like a short "Demo" which doesn't have to be like shown on the screenshots, every use case can be different.
 
-<img src="https://github.com/atakancetinkaya/data-explorer/tree/main/powershell_usage_screenshots/accept.png" alt="SS-1">
+<img src="https://github.com/atakancetinkaya/data-explorer/blob/main/powershell_usage_screenshots/accept.png" alt="SS-1">
 
-<img src="https://github.com/atakancetinkaya/data-explorer/tree/main/powershell_usage_screenshots/output.png" alt="SS-2">
+<img src="https://github.com/atakancetinkaya/data-explorer/blob/main/powershell_usage_screenshots/output.png" alt="SS-2">
 
-<img src="https://github.com/atakancetinkaya/data-explorer/tree/main/powershell_usage_screenshots/not_accept.png" alt="SS-3">
+<img src="https://github.com/atakancetinkaya/data-explorer/blob/main/powershell_usage_screenshots/not_accept.png" alt="SS-3">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
